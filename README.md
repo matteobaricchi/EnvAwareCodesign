@@ -9,8 +9,8 @@ The repository contains:
 
 1. An example Python script for performing multi-objective layout design optimization and layout-control co-design optimization. The provided code contains the optimization framework, while the objective function used in this study cannot be made publicly available due to licensed emission factors. For questions regarding the latter, please contact Samuel Kainz at the Technical University of Munich (samuel.kainz@tum.de).
 2. The Python script used to generate the data and plots for two illustrative examples with 2 and 3 turbines, respectively. The resulting datasets are also provided, allowing the script to be used for plotting purposes only (see the corresponding flag in the input parameters).
-3. The results from the multi-objective layout design and layout-control co-design optimizations, as well as the optimized yaw angles.
-4. A script for analyzing the multi-objective optimization results, which was used to create the corresponding figures in the paper.
+3. The results from the multi-objective layout design and layout-control co-design optimizations, as well as the optimized yaw angles. These data are available both as pkl and as csv files.
+4. A script for analyzing the multi-objective optimization results, which was used to create the corresponding figures in the paper. Please extract the zipped files in the folder code/optimization_results before running the Python script.
 5. A list of package versions used to run the above-mentioned scripts.
 6. PDF versions of all figures used in the paper, pickled Matplotlib plots for most figures, and the underlying data for figures for which neither the pickled plots nor the plotting code can be provided.
 
