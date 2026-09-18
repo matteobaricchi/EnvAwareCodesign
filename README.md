@@ -15,4 +15,5 @@ The repository contains:
 6. PDF versions of all figures used in the paper, pickled Matplotlib plots for most figures, and the underlying data for figures for which neither the pickled plots nor the plotting code can be provided.
 
 We hope you find the code and data useful. May the wind be strong, the wakes be weak, and the optimization converge.
+
 Matteo Baricchio and Samuel Kainz
