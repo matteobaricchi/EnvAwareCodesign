@@ -1,0 +1,2 @@
+Use the routine LoadPickledPlots.py to open all pickled figure files. 
+The pickled plots have been created with matplotlib==3.10.9 and python==3.11. Make sure the python and package versions match to properly open the pickled figures.
